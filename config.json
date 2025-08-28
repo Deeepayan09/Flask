@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/techtrekker",
+    "prod_uri": "mysql://root:@localhost/techtrekker",
+    "fb_url": "https://facebook.com/techtrekker",
+    "tw_url":"https://twitter.com/techtrekker",
+    "gh_url": "https://github.com/techtrekker",
+    "blog_name": "Tech Trekker",
+    "gmail-user": "deepcode009@gmail.com",
+    "gmail-password": "potb emam oezw jgyo",
+    "about_text": "Welcome to TechTrekker Blogs, a space where technology meets creativity and curiosity. Here, I document my journey through the dynamic world of innovation — from coding experiments and software projects to exploring AI, cloud computing, and the latest digital trends. Each vlog is crafted to simplify complex ideas, share practical insights, and inspire you to see technology not just as tools, but as an exciting adventure shaping our everyday lives.\n\nAt TechTrekker, my goal is to create content that’s both informative and engaging, blending tutorials, discussions, and behind-the-scenes experiences into stories you can connect with. Whether you’re a student taking your first steps into tech, a professional looking to sharpen your skills, or just someone curious about how technology impacts the world, these vlogs are here to guide, inspire, and grow alongside you on this journey.",
+    "no_of_posts": 2,
+    "admin_user": "deepayan09",
+    "admin_password": "viratkohli",
+    "upload_location": "C:\\Users\\Deepayan\\PycharmProjects\\Flask\\static"
+
+
+
+  }
+}
